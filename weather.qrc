@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>weather/cloudy.png</file>
+        <file>weather/mai.png</file>
+        <file>weather/rainy.png</file>
+        <file>weather/sandfly.png</file>
+        <file>weather/sunny.png</file>
+        <file>weather/yintian.png</file>
+        <file>weather/wind.png</file>
+        <file>weather/xiaoyu.png</file>
+        <file>weather/dayu.png</file>
+        <file>weather/zhongyu.png</file>
+        <file>weather/duoyun.png</file>
+        <file>weather/snowy.png</file>
+        <file>weather/dry.png</file>
+        <file>weather/windIcon.png</file>
+        <file>weather/wet.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>weather/search.png</file>
+        <file>weather/back.png</file>
+        <file>weather/notice.png</file>
+        <file>weather/convert.png</file>
+        <file>weather/GPS.png</file>
+        <file>weather/add.png</file>
+        <file>weather/more.png</file>
+    </qresource>
+    <qresource prefix="/search">
+        <file>cities.json</file>
+    </qresource>
+    <qresource prefix="/back">
+        <file>weather/sunnyday.jpg</file>
+        <file>weather/rainyday.jpg</file>
+        <file>weather/cloudyday.jpg</file>
+        <file>weather/snowyday.jpg</file>
+        <file>weather/overcast.jpg</file>
+        <file>weather/foggy.jpg</file>
+    </qresource>
+</RCC>
